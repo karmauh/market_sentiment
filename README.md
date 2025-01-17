@@ -46,27 +46,29 @@ Aplikacja **Market Sentiment Analysis Tool** to zaawansowane narzędzie do anali
 ## Wymagania
 1. Python 3.8+
 2. Zainstalowane pakiety Python:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   Pakiety zawarte w projekcie:
+   - matplotlib
+   - scikit-learn
+   - requests
+   - binance
+   - nltk
+   - rich
+   - tk
 3. Konto na Binance z aktywnym kluczem API (opcjonalnie).
 
 ## Instrukcja instalacji
 
 1. **Sklonuj repozytorium**:
    ```bash
-   git clone https://github.com/your-username/market-sentiment-analysis.git
+   git clone https://github.com/your-username/market_sentiment.git
    ```
 
 2. **Przejdź do katalogu projektu**:
    ```bash
-   cd market-sentiment-analysis
+   cd market_sentiment
    ```
 
 3. **Zainstaluj wymagane biblioteki**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 4. **Skonfiguruj klucze API Binance**:
    - Otwórz plik `market_data.py` i wprowadź swoje klucze API:
