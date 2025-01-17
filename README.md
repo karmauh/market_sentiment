@@ -105,7 +105,7 @@ Aplikacja **Market Sentiment Analysis Tool** to zaawansowane narzędzie do anali
 
 ## Struktura projektu
 ```
-market-sentiment-analysis/
+market_sentiment/
 ├── analysis/
 │   ├── indicators.py          # Obliczanie wskaźników technicznych
 │   ├── sentiment.py           # Analiza sentymentu
@@ -133,8 +133,6 @@ market-sentiment-analysis/
 Projekt jest udostępniony na licencji MIT. Więcej informacji znajdziesz w pliku [LICENSE](LICENSE).
 
 ## Autor
-**Twoje Imię i Nazwisko**
-- GitHub: [Twój Profil](https://github.com/your-username)
-- Email: your-email@example.com
+**karmauh**
 
 ---
